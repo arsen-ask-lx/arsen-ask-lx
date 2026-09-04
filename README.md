@@ -13,24 +13,16 @@
 
 <div align="center">
 
-<img height="34" src="https://cdn.simpleicons.org/python/3776AB/3776AB" alt="python" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/javascript/B8A400/F7DF1E" alt="javascript" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/nodedotjs/5FA04E/5FA04E" alt="nodedotjs" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/gnubash/3E3E3E/D0D0D0" alt="gnubash" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/django/092E20/44B78B" alt="django" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/qt/41CD52/41CD52" alt="qt" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/postgresql/4169E1/4169E1" alt="postgresql" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/docker/2496ED/2496ED" alt="docker" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/linux/555555/FCC624" alt="linux" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/git/F05032/F05032" alt="git" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/githubactions/2088FF/2088FF" alt="githubactions" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/github/181717/E6EDF3" alt="github" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/anthropic/181818/E6EDF3" alt="anthropic" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/claude/D97757/D97757" alt="claude" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/cursor/181818/E6EDF3" alt="cursor" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/githubcopilot/181717/E6EDF3" alt="githubcopilot" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/googlegemini/8E75B2/8E75B2" alt="googlegemini" />&nbsp;&nbsp;
-<img height="34" src="https://cdn.simpleicons.org/ollama/222222/E6EDF3" alt="ollama" />&nbsp;&nbsp;
+<br /><br />
+
+<img height="42" src="https://cdn.simpleicons.org/typescript/3178C6/3178C6" alt="typescript" />&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.simpleicons.org/python/3776AB/4B8BBE" alt="python" />&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.simpleicons.org/claude/D97757/D97757" alt="claude" />&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.simpleicons.org/django/092E20/44B78B" alt="django" />&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://cdn.simpleicons.org/docker/2496ED/2496ED" alt="docker" />&nbsp;&nbsp;&nbsp;
+<img height="42" src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&labelColor=0d1117&color=8b949e" alt="Codex" />
+
+<br />
 
 </div>
 
@@ -38,13 +30,11 @@
 
 <div align="center">
 
-### ⚙️ &nbsp;WHAT IT LOOKS LIKE
+### 🌀 &nbsp;八卦封印
 
-<img src="https://raw.githubusercontent.com/arsen-ask-lx/arsen-ask-lx/main/terminal.svg" width="100%" alt="aqk doctor --run" />
+<img src="https://raw.githubusercontent.com/arsen-ask-lx/arsen-ask-lx/main/seal.svg" width="300" alt="" />
 
-<a href="https://github.com/arsen-ask-lx/Agent_Quality_Kit"><img src="https://img.shields.io/badge/try%20it-npx%20agent--quality--kit%20doctor-0d1117?style=for-the-badge&labelColor=2ea44f&logo=gnubash&logoColor=white" alt="" /></a>
-
-<sub>read-only · writes nothing · sends nothing · 15 seconds</sub>
+<sub>the seal holds — until it doesn&#39;t</sub>
 
 </div>
 
