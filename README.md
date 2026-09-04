@@ -19,22 +19,9 @@
 
 <div align="center">
 
-### ⚙️ &nbsp;THE ONE IDEA
+### ⚙️ &nbsp;WHAT IT LOOKS LIKE
 
-</div>
-
-```
-        promise                   command                  fact
-  ┌──────────────────┐     ┌──────────────────┐     ┌──────────────┐
-  │    AGENTS.md     │     │     .aqk.yml     │     │  exit code   │
-  │  "never commit   │ ──▶ │  secrets-not-in- │ ──▶ │   0  or  1   │
-  │     secrets"     │     │  code: bash …    │     │              │
-  └──────────────────┘     └──────────────────┘     └──────────────┘
-    a human reads it        a machine holds it       CI acts on it
-     and may forget          and cannot forget       and cannot argue
-```
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/arsen-ask-lx/arsen-ask-lx/main/terminal.svg" width="100%" alt="aqk doctor --run" />
 
 <a href="https://github.com/arsen-ask-lx/Agent_Quality_Kit"><img src="https://img.shields.io/badge/try%20it-npx%20agent--quality--kit%20doctor-0d1117?style=for-the-badge&labelColor=2ea44f&logo=gnubash&logoColor=white" alt="" /></a>
 
