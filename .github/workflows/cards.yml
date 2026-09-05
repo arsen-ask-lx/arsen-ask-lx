@@ -1,0 +1,30 @@
+# Карточки статистики генерируются сюда, в этот репозиторий, а не берутся с чужого сервера.
+#
+# ЗАЧЕМ. Виджеты, которые стоят у половины красивых профилей, живут на бесплатных площадках и
+# мрут молча: github-readme-stats сегодня отвечает 503, трофеи и график вклада — 402. Владелец
+# об этом не узнаёт, у него в браузере кэш, а посетитель видит битые картинки. Здесь карточка
+# лежит рядом с README и ломается только вместе с самим GitHub.
+name: cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5          # Ташкент
+          THEME: github_dark
+          ANIMATION: rise
