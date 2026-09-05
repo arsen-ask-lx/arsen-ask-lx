@@ -17,21 +17,9 @@
   <img alt="" src="https://raw.githubusercontent.com/arsen-ask-lx/arsen-ask-lx/output/snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:2ea44f,50:1a7f4e,100:0d1117&animation=fadeIn" width="100%" alt="" />
-
-</div>
-
----
-
-## ⬇︎ ЧЕРНОВИК — всё выше не тронуто
-
-Рисунок слева, статистика справа. Тема `vue`, зелёный `#41b883`.
-
-<div align="center">
-
 <table>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -68,15 +56,12 @@
 </pre>
 
 </td>
-<td valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsen-ask-lx&theme=vue" alt="" />
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsen-ask-lx&theme=vue" alt="" />
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsen-ask-lx&theme=vue&utcOffset=5" alt="" />
-
-</td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsen-ask-lx&theme=vue" width="340" alt="" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsen-ask-lx&theme=vue&utcOffset=5" width="340" alt="" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsen-ask-lx&theme=vue" width="340" alt="" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsen-ask-lx&theme=vue" width="340" alt="" /></td>
 </tr>
 <tr>
 <td valign="top">
@@ -112,15 +97,10 @@
 </pre>
 
 </td>
-<td valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arsen-ask-lx&theme=vue" alt="" />
-<br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsen-ask-lx&theme=vue" alt="" />
-
-</td>
+<td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsen-ask-lx&theme=vue" width="700" alt="" /></td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=70&color=0:2ea44f,50:1a7f4e,100:0d1117&animation=fadeIn" width="100%" alt="" />
 
 </div>
